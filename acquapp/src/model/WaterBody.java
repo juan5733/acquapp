@@ -11,7 +11,7 @@ public class WaterBody {
 	// Optional
 	private String type;
 	private String city;
-	private String province;
+	private String province;//
 	
 	public WaterBody(int id, String name, String river, String basin, String type, String city, String province) {
 		super();
